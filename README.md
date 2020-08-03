@@ -8,6 +8,7 @@ I'm a Computer Systems Engineering student at the University of Auckland. I enjo
 📫 **How to reach me**: 
 
 Email: seong.june.her.99@gmail.com
+
 LinkedIn: www.linkedin.com/in/seong-june-her
  
  
