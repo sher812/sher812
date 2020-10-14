@@ -11,7 +11,7 @@ Email: seong.june.her.99@gmail.com
 
 LinkedIn: www.linkedin.com/in/seong-june-her
  
- 
+[![sher812's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sher812&show_icons=true)](https://github.com/sher812)
  
 
 
